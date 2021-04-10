@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Coba saja"
+echo "Coba saja, ngedit isinya"
